@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Some Profiles:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/the_yaka_arrow" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1559406522329100288/bZAmg2J7_400x400.jpg" alt="shivam agarwal" height="30" width="35" /></a> &nbsp; &nbsp;
-  <a href="https://www.codingninjas.com/codestudio/profile/3a2c2a7b-6fb9-4c96-8f8e-cfeeffafeb87" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINqrD6-2HCe6yOPoYa1OUNuuVkCN_j-B5yR5hyLHz6SDOB835PyX2CKDV1PeCmQEgntk&usqp=CAU" alt="shivam agarwal" height="30" width="35" /></a> &nbsp; &nbsp;
-  <a href="https://codesandbox.com/shivam agarwal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/256/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-duo-tal-revivo.png" alt="shivam agarwal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushguptass14/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1559406522329100288/bZAmg2J7_400x400.jpg" alt="ayush gupta" height="30" width="35" /></a> &nbsp; &nbsp;
+ &nbsp; &nbsp;
+
 </p>
 
 
